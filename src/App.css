@@ -1,0 +1,27 @@
+
+/* ------------------- Styles from card --------------------- */
+.card{
+  width: 16em;
+}
+
+.previousPrice{
+  text-decoration: line-through;
+}
+
+
+/* ----------------Styles from navbar-------------------------- */
+
+.logo{
+  width: 10em;
+  margin: auto;
+}
+
+.navIcon{
+  font-size: 30px;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
